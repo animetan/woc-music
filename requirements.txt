@@ -1,0 +1,8 @@
+Cybernator
+discord_components
+PyNacl
+Pillow
+discord-py-slash-command
+Flask
+discord
+FFmpeg
