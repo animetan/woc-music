@@ -1,5 +1,5 @@
 Cybernator
-discord_components
+discord-components
 PyNacl
 Pillow
 discord-py-slash-command
